@@ -20,8 +20,8 @@ The dataset can be further used for data analisis and vizualisation.
 
 # Visuals
 
-Scraped information per property ![alt text](\src\image-1.png)![alt text](\src\image.png)
+Scraped information per property ![alt text](src/image-1.png)![alt text](src/image.png)
 
 * Results from the scraping:
-![alt text](\src\image-3.png) raw csv file with 17858 rows of data for 11 provinces 
-![alt text](\src\image-2.png) 17157 unique rows
+![alt text](src/image-3.png) raw csv file with 17858 rows of data for 11 provinces 
+![alt text](src/image-2.png) 17157 unique rows
