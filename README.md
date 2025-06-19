@@ -21,3 +21,7 @@ The dataset can be further used for data analisis and vizualisation.
 # Visuals
 
 Scraped information per property ![alt text](image-1.png)![alt text](image.png)
+
+* Results from the scraping:
+![alt text](image-3.png) raw csv file with 17858 rows of data for 11 provinces 
+![alt text](image-2.png) 17157 unique rows
