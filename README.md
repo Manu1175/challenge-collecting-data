@@ -12,7 +12,7 @@ I chose to scrape data from the famous https://immovlan.be/ website.
 github clone https://github.com/Manu1175/challenge-collecting-data.git
 cd challenge-collecting-data
 
-* Run with Python 3: python immo_scraper.py
+* Run with Python 3: python scraper_oo.py
 
 # Usage
 
